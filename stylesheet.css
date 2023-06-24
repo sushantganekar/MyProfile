@@ -1,0 +1,124 @@
+body {
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(images/navy\ blue\ bg.jpg);
+    background-size: cover;
+}
+
+
+#top-name > h1 {
+    padding: 1%;
+}
+
+#top-name {
+    height: 70px;
+    color: white;
+    background-color: rgb(5, 100, 69);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+#top-box {
+    color: rgb(0, 255, 255);
+    height: 180px;
+    padding-top: 28px;
+    padding-bottom: 10px;
+    padding-left: 45%;
+    font-size: 21px;
+    line-height: 13px;
+    background-color: rgb(0, 0, 0, 0.85);
+}
+
+#top-box-image > img {
+    height: 150px;
+    border: 4px double rgb(0, 238, 255);
+    border-radius: 15px;
+    float: left;
+                      
+}
+
+#top-box-title {
+    margin-left: 2%;
+    float: left;
+
+}
+
+#top-box-name {
+    margin-left: 2%;
+    float: left;
+}
+
+
+#second-box {
+    height: 160px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0, 0.6);
+    color: gold;
+    
+
+}
+#third-box {
+    height: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    background-color: rgb(2, 109, 2, 0.6);
+    color: white;
+
+}
+table, tr, td {
+    padding-left: 130px;
+    font-size: 20px;
+    color: white;
+}
+
+#bottom-box {
+    height: 300px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    background-color: rgb(191, 194, 191, 0.9);
+    color: red;
+
+}
+
+#map {
+    height: 300px;
+    padding-left: 25%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+        
+}
+
+iframe {
+    border-radius: 10px;
+    border: 2px ridge red;
+    box-shadow: 2px 2px 3px rgb(0, 0, 0);
+    
+}
+#footer {
+    height: 90px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: none;
+    text-align: center;
+}
+
+
+      
